@@ -1,0 +1,7 @@
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\bin\Debug\M6_Attributes.exe.config
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\bin\Debug\M6_Attributes.exe
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\bin\Debug\M6_Attributes.pdb
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\obj\Debug\M6_Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\obj\Debug\M6_Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\obj\Debug\M6_Attributes.exe
+C:\Users\Andrii\Source\Repos\M6_Attributes\M6_Attributes\obj\Debug\M6_Attributes.pdb
